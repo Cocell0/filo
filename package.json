@@ -1,0 +1,27 @@
+{
+  "name": "filo",
+  "version": "1.0.0",
+  "description": "A lightweight NPM package that reads a file, replaces its lines referencing other files with their actual content, and writes the modified result to a new file.",
+  "main": "index.js",
+  "bin": {
+    "filo": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cocell0/filo.git"
+  },
+  "keywords": [
+    "file",
+    "replace",
+    "content"
+  ],
+  "author": "Coc̀éll",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cocell0/filo/issues"
+  },
+  "homepage": "https://github.com/Cocell0/filo#readme"
+}
