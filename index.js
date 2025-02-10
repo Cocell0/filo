@@ -4,7 +4,7 @@ const path = require('path');
 
 const args = process.argv.slice(2);
 if (args.length < 1) {
-  console.error('Usage: node filo.js <source file> <output file> (optional)');
+  console.error('Usage: filo <source file> <output file> (optional)');
   process.exit(1);
 }
 
