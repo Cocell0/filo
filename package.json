@@ -1,8 +1,12 @@
 {
   "name": "filo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight NPM package that reads a file, replaces its lines referencing other files with their actual content, and writes the modified result to a new file.",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "bin": {
     "filo": "index.js"
   },
