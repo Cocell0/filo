@@ -1,6 +1,6 @@
 {
   "name": "@cocell/filo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight NPM package that reads a file, replaces its lines referencing other files with their actual content, and writes the modified result to a new file.",
   "main": "index.js",
   "files": [
